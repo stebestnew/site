@@ -1,0 +1,71 @@
+/* page login start*/
+body{
+
+	background-color:#F4F4F4;
+	font-size:15px;
+}
+.login {
+
+	width :300px;
+	margin:100px auto;
+
+}
+ .login input {
+ 	margin-bottom:10px;
+ }
+
+
+ .form-control {
+
+ 	background-color:#EFEFEF;
+ }
+ /* page login end*/
+  /* Navbar start*/
+.navbar
+{
+
+	border-radius:0;
+	
+}
+.parent {
+
+	margin:20px auto;
+	width:800px;
+	height:500px;
+	text-align:center;
+	background-color:green;
+	display:grid;
+	grid-template-columns: repeat(4,auto);
+	grid-template-rows: repeat(6,auto);
+	column-gap:20px;
+	row-gap:10px;
+	
+}
+
+.parent div{
+	margin:20px auto;
+	padding-top:10px;
+	padding-bottom:10px;
+	text-align:center;
+	background-color:green;
+	display:grid;
+	
+	
+}
+
+
+ /* Navbar end*/
+
+
+ /* page Utlisateur Start*/
+
+h1{
+
+	font-size:50px;
+		
+
+}
+
+
+
+  /* page Utlisateur end*/
